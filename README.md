@@ -1,5 +1,6 @@
 # BikeShareDC
-**Data Fields
+
+**Data Fields**
 
 datetime - hourly date + timestamp  
 season -  1 = spring, 2 = summer, 3 = fall, 4 = winter 
