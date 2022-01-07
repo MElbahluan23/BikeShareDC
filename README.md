@@ -36,7 +36,7 @@ https://www.capitalbikeshare.com/pricing/day-passes
 10. **casual** - number of non-registered user rentals initiated
 11. **registered** - number of registered user rentals initiated
 12. **count** - number of total rentals
-# ### We want analyze this  Data to answer  below questions :
+## We want analyze this  Data to answer  below questions :
 
 **Questions**
 1. Calculate Profit  ( Assuming the customer only rented the bike for one hour and the hourly rental price is correct )
